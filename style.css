@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   padding: 0;
   margin: 0;
@@ -221,3 +222,31 @@ body {
     text-align: center;
   }
 }/*# sourceMappingURL=style.css.map */
+=======
+body{
+    padding: 0;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    }
+
+.main-portfolio{
+        background-color: aliceblue;
+    margin-bottom: 300px;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#navbar{
+    text-align: right;
+    padding-left: 4cm;
+    font-size: small;
+}
+.description{
+    font-family: Arial, Helvetica, sans-serif;
+}
+>>>>>>> 1ae3796a98620bc09b44998cd88f826e6b8ab5df
